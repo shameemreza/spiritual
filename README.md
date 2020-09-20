@@ -19,7 +19,7 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 - Card: Album, Follow, Post, Profile, Rates, User
 - Input Field
 - List
-- - Separator
+- Separator
 - Dialogs
 - Darg and Drop
 - Expandable
