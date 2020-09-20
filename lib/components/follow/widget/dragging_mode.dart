@@ -1,0 +1,4 @@
+enum DraggingMode {
+  iOS,
+  Android,
+}

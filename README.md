@@ -15,17 +15,32 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 ## Available screens and widgets:
 
-| Templates Category |               Currently Available                |
-| :----------------- | :----------------------------------------------: |
-| Profile            |             View Profile, Profile 2              |
-| Shopping           | Shopping List, Shopping Details, Product Details |
-| Login              |             Login With OTP, Login 2              |
-| Timeline           |                   Feed, Tweets                   |
-| Dashboard          |             Dashboard 1, Dashboard 2             |
-| Settings           |                 Device Settings                  |
-| No Item            |                 No Search Result                 |
-| Payment            |           Credit Card, Payment Success           |
+- Button
+- Card: Album, Follow, Post, Profile, Rates, User
+- Input Field
+- List
+- - Separator
+- Dialogs
+- Darg and Drop
+- Expandable
+- Follow
+- Login
+- Register
+- Forget Password
+- Parallax
+- Parallax Content
+- Profile
+- Rating
+- Splash
+- Swipe to dismiss
+- Onboarding
+- Localization
+- Menu
+- Top bar
 
+# Screenshots
+
+<img height="480px" src="raw/1.png"><img height="480px" src="raw/2.png"><img height="480px" src="raw/3.png"> <img height="480px" src="raw/4.png"> <img height="480px" src="raw/5.png"> <img height="480px" src="raw/6.png">
 
 ## License
 
