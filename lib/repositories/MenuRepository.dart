@@ -9,7 +9,7 @@ class MenuRepository {
       Routes.walkthrough: {'ONBOARDING': Icons.view_array},
       Routes.login: {'LOGIN / REGISTER': Icons.input},
       Routes.gallery: {'GALLERY': Icons.image},
-      Routes.checkboxSliders: {'SMALL COMPONENTS': Icons.tune},
+      Routes.checkboxSliders: {'COMPONENTS': Icons.tune},
       Routes.parallaxList: {'PARALLAX': Icons.layers},
       Routes.tabs: {'TABS': Icons.layers},
       Routes.dialogList: {'DIALOGS': Icons.chat}
